@@ -1,7 +1,7 @@
 # Hi 👋, I'm Harish Yadav
 
 # About Me
-- 🎓 Kasi Reddy Narayana Reddy College Of Engineering(2021-2025)
+- 🎓 Kasi Reddy Narayana Reddy College Of Engineering(2021-2025),Sree Chaitanya Junior College
 - 💻 Interested in Data Analytics, Power BI, SQL, and Python
 - 🌱 Currently learning Data Visualization and GitHub
 - 🚀 Looking to build real-world projects
